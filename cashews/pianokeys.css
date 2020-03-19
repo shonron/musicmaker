@@ -1,0 +1,119 @@
+div.bass{
+	background-image: url('bass.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+	
+	
+	
+}
+div.rhythm{
+	background-image: url('rhythm.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+}
+div.snares{
+	background-image: url('snares.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+}
+div.kicks{
+	background-image: url('kicks.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+	
+	
+}
+
+div.percussion{
+	background-image: url('perc.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+}
+
+div.hihats{
+	background-image: url('hihatlogo.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+	
+}
+div.clap{
+	background-image: url('claplogo.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+	
+	
+}
+
+div.kickgroup{
+	
+	
+}
+div.snaregroup{
+	
+	
+	
+}
+
+div.rhythmgroup{
+	
+	
+}
+div.bassgroup{
+	
+	
+}
+
+body {
+	background-image: url('musicalbackground.png');
+	
+}
+button{
+	background-image: url('bass.png');
+	height: 100px;
+	width: 100px;
+	background-size: cover;
+	border: 2px double gray; 
+	margin: 4px;
+	float: left;
+	
+}
+
+a.hover{
+	
+	
+}

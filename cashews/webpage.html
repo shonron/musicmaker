@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+
+</head>
+
+
+<body>
+
+<h2>sup hoes</h2>
+<form id= "fred" method= "POST" action= "/api">
+
+<input type= "text" value= "whats poppin motherfucka" name="information">
+<input type= "submit" value= "send" id= "tom">
+
+
+</form>
+
+
+<script>
+
+const thomas = document.getElementById('tom');
+const Dashawn = document.getElementById('fred');
+const options = {
+	method: 'POST',
+	headers: { 'Content-type': 'application/json'},
+	body: JSON.stringify(Dashawn),
+	}
+	
+	
+
+thomas.addEventListener('click', fetch('/api', options));
+
+
+console.log(Dashawn);
+
+
+
+
+</script>
+
+</body>

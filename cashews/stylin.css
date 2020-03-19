@@ -1,0 +1,77 @@
+body {
+	background-image: url('pianer.png');
+	
+	
+	
+	
+	
+}
+
+div{
+	
+	text-align: center;
+	max-width: 100%;
+	max-height: 100%;
+	
+}
+
+p {
+	
+	color: blue;
+	background-color: gray;
+	width: 50%;;
+	display: inline-block;/* to center the paragraphs in the middle of the page*/
+	
+	
+	
+}
+
+.biggie{
+	background-image: url('musicalbackground.png');
+	
+}
+
+div.craigmack{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -100px;
+	margin-top: -50px;
+	background-image: url('pianer.png');
+	background-size: cover;
+	height: 25%;
+	border: 2px double gray; 
+	
+	
+	
+
+
+	
+}
+
+form{
+	color: blue;
+	margin-top: 10%;
+	
+}
+
+
+
+.photo{
+	width: 70%;
+	height: 70%;
+	border:5px double gray;
+	
+}
+
+.introbutton {
+	width: 40%;
+	height: 20%;
+	text-align: center;
+	font-size: 24px;
+	background-image: url('dabutton(2).png');
+	background-size: contain;
+	
+	
+	
+}
